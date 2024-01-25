@@ -1,0 +1,7 @@
+Comp132 Advanced Programming 5 true
+Comp304 Operating Systems 4 true
+Comp467 Network Security 7 true
+Comp306 Database Management 5 true
+Comp341 Artificial Intelligence 4 true
+Comp412 Computer Vision 6 true
+Comp423 Computer Networks 7 true
